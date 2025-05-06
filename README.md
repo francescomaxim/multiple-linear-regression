@@ -80,12 +80,8 @@ This project fulfills the requirements of an assignment that includes:
 ```
 insurance-cost-prediction/
 │
-├── assig_normalized.py       # Main script with normalized training and feature importance
+├── assig.ipynb               # Main script with normalized training and feature importance
 ├── insurance.csv             # Dataset (not included; must be added)
-├── output/                   # Directory for output plots
-│   ├── cost_vs_iteration_normalized.png
-│   ├── cost_vs_iteration_optimal_normalized.png
-│   ├── feature_importance.png
 ├── README.md                 # Project documentation
 ```
 
